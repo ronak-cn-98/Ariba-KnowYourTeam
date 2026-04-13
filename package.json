@@ -2,7 +2,7 @@
   "name": "fusion-starter",
   "private": true,
   "type": "module",
-  "homepage": "https://ronak-cn-98.github.io/Ariba-KYT/",
+  "homepage": "https://ronak-cn-98.github.io/Ariba-KnowYourTeam/",
   "pkg": {
     "assets": [
       "dist/spa/*"
