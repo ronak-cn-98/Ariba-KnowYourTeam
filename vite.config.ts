@@ -6,7 +6,7 @@ import { createServer } from "./server";
 const devPort = Number(process.env.PORT) || 8080;
 
 export default defineConfig(({ mode }) => ({
-  base: mode === "production" ? "/Ariba-KYT/" : "/",   // 🔥 CRITICAL FIX
+  base: mode === "production" ? "/Ariba-KnowYourTeam/" : "/",   // 🔥 CRITICAL FIX
 
   server: {
     host: "::",
